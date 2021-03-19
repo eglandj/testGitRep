@@ -12,7 +12,7 @@
 		echo "<h3>PHP Code Generates This:</h3>";
 		
 		//some variables
-		$servername = "localhost";  //mysql is on the same host as apache (not realistic but whatevs)
+		$servername = "192.168.1.112";  //mysql is on the same host as apache (not realistic but whatevs)
 		$username = "eglandj";    //username for database
 		$password = "{f4YbHR6";		//password for the user
 		$dbname = "employees";  	//which db you're going to use
