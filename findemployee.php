@@ -12,7 +12,7 @@
 		echo "<h3>PHP Code Generates This:</h3>";
 		
 		//some variables
-		$servername = "localhost";  //mysql is on the same host as apache (not realistic) this would more likely be an IP address
+		$servername = "192.168.1.112";  //mysql is on the same host as apache (not realistic) this would more likely be an IP address
 		//$username = "<put your db username here>";    //username for database
 	        $username = "eglandj";
 		//$password = "<put your db password here>";		//password for the user
